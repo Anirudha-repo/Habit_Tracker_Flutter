@@ -2,9 +2,6 @@
 
 A **beautiful and interactive Habit Tracker** built with Flutter. Track your daily habits, visualize weekly progress, and stay motivated with **customizable habits, streak tracking, and daily reminders**. Supports **light and dark modes** with a modern, clean design.
 
-![App Screenshot](screenshots/screenshot1.png)  
-*Add your screenshots here for better presentation.*
-
 ---
 
 ## Features
@@ -22,9 +19,13 @@ A **beautiful and interactive Habit Tracker** built with Flutter. Track your dai
 
 ## Screenshots
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light Mode](screenshots/light_mode.png) | ![Dark Mode](screenshots/dark_mode.png) |
+Light Mode:
+
+![Light Mode](https://github.com/Anirudha-repo/Habit_Tracker_Flutter/blob/main/screenshots/Screenshot%202025-09-22%20003947.png)
+
+Dark Mode:
+
+![Dark Mode](https://github.com/Anirudha-repo/Habit_Tracker_Flutter/blob/main/screenshots/Screenshot%202025-09-22%20004006.png)
 
 ---
 
