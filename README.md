@@ -36,31 +36,38 @@ A **beautiful and interactive Habit Tracker** built with Flutter. Track your dai
 - Dart SDK (comes with Flutter)  
 - A code editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
-### Folder Structure
-lib/
-├── main.dart                # Entry point of the app
-├── models/
-│   └── habit.dart           # Habit model
-├── pages/
-│   ├── home_page.dart       # Main app page
-│   └── add_habit_dialog.dart# Dialog to add a habit
-├── widgets/
-│   └── progress_chart.dart  # Weekly progress chart widget
-└── services/
-    └── notification_service.dart # Daily reminder notifications
+
+---
+
+### Contributing
+
+Contributions are welcome!  
+
+1. Fork the repo  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m 'Add feature'`)  
+4. Push to the branch (`git push origin feature-name`)  
+5. Open a Pull Request  
+
+---
 
 ### Dependencies
-= flutter_local_notifications – daily reminders
-- google_fonts – modern typography
-- shared_preferences – local storage
-- fl_chart – weekly progress chart
+
+- **flutter_local_notifications** – daily reminders  
+- **google_fonts** – modern typography  
+- **shared_preferences** – local storage  
+- **fl_chart** – weekly progress chart  
+
+---
 
 ### Features in Action
 
-- Add a habit with a custom color, icon, and optional daily reminder.
-- Tap the days to mark completion.
-- Track streaks and weekly progress.
-- Switch between light and dark mode for comfortable viewing.
+1. **Add a habit** with a custom color, icon, and optional daily reminder.  
+2. **Tap the days** to mark completion.  
+3. **Track streaks** and weekly progress.  
+4. **Switch between light and dark mode** for comfortable viewing.
+
+---
 
 ### Installation
 
